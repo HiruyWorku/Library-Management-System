@@ -1,2 +1,2 @@
 # Library-Management-System
-Library management system using C..
+Library management system using C.
