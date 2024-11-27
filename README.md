@@ -1,6 +1,12 @@
 Library Management System
-##Description
-This application is a library management system that aims to track customers' and librarians' books.
+=====================================
+Description
+---------------
+This application is a library management system designed to track customers' and librarians' books.
+How it Works
+------------------
+Functionality
+View Available Books: Clicking on this option brings up a list of every book that is available in the library.
+Borrow a Book: To view accessible books, enter your user ID in the search bar.
+View Borrowed Books: Enter the transaction ID to obtain the books you have checked out and see which ones you have.
 
-How it works
-Clicking on the "View available Books" option should bring up a list of every book that is available in the library. To borrow a book To view the books that are accessible, enter your user ID in the search bar. By entering the transaction_ID, you should be able to obtain the books you have checked out and see which ones you have.
